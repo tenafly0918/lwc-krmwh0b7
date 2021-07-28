@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/tenafly0918.lwc-krmwh0b7",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "wcd-cli serve 7vlBymGZzsFcAog1D7TG --open"
+  }
+}
